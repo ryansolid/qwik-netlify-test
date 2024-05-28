@@ -43,5 +43,9 @@
     "undici": "*",
     "vite": "^5.2.10",
     "vite-tsconfig-paths": "^4.2.1"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^7.3.0",
+    "@netlify/functions": "^2.7.0"
   }
 }
